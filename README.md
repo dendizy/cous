@@ -1,2 +1,2 @@
-# cous
-cous repository new
+# dendizy
+dendizy cous repository new
